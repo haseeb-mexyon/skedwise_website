@@ -69,7 +69,7 @@ function Main() {
     };
     document.body.appendChild(script2);
   },[apiValue]); // Include apiValue in the dependency array
-
+ 
   return (
     <>
       <main>
